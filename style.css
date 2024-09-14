@@ -1,0 +1,26 @@
+body {
+
+
+
+
+   
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000;
+}
+.fractal {
+    position: relative;
+    width: 600px;
+    height: 600px;
+}
+.box {
+    position: absolute;
+    box-sizing: border-box;
+    border: 1px solid #fff; /* Añadir un borde blanco para visualizar mejor los fractales */
+
+
+
+}
